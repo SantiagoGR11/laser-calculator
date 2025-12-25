@@ -12,6 +12,12 @@ This project implements the experimental and computational analysis of the **LAS
 
 ---
 
+## 🔍 **Abstract**
+
+This repository contains code and data associated with an experimental study on implementing algebraic operations between waves using linear optical systems. Data from an interferometric setup are processed through FFT-based filtering and nonlinear least squares fitting to parametrize wave number modifications via Fourier-plane manipulation. The workflow demonstrates how wave products can be mapped onto controllable optical signal patterns, providing a foundation for analog optical computation.
+
+---
+
 ## 🎯 **Scientific Objective**
 - Implement basic operations between waves (addition, subtraction, scalar multiplication) using linear media.
 - Analyze how manipulation in the Fourier plane allows modification of the wavenumber.
@@ -58,6 +64,9 @@ laser-calculator/
 ## 🚀 **How to Run**
 
 
+*Requirements*
+- Python 3.10 or higher
+- Install dependencies:
 ```bash
 # 1. Clone the repository:
 git clone https://github.com/yourusername/laser-calculator.git
