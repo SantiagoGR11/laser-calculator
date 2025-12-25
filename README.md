@@ -100,7 +100,3 @@ python src/main.py
 
 - https://www.linkedin.com/in/santiago-garc%C3%ADa-rodr%C3%ADguez-b8aa58240/
 - https://github.com/SantiagoGR11
-
-# laser-calculator
-Experimental study on implementing algebraic operations between waves using linear optics. By exploiting Fourier-plane manipulations, wave numbers are controlled via diffraction and spatial filtering, establishing a physical analogy between wave products and optical signal processing.
-
