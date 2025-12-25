@@ -5,6 +5,13 @@ This project implements the experimental and computational analysis of the **LAS
 
 ---
 
+
+[![Python](https://img.shields.io/badge/Python-3.10-blue)]()
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)]()
+[![Status](https://img.shields.io/badge/status-completed-success)]()
+
+---
+
 ## 🎯 **Scientific Objective**
 - Implement basic operations between waves (addition, subtraction, scalar multiplication) using linear media.
 - Analyze how manipulation in the Fourier plane allows modification of the wavenumber.
@@ -15,21 +22,21 @@ This work lays the foundation for future developments in **Fourier optics** and 
 ---
 
 ## 📂 **Project Structure**
-laser-calculator/
-│
-├── data/
-│   └── dataset_laser.csv          # Experimental data
-│
-├── src/
-│   ├── data_loader.py             # Data loading and filtering
-│   ├── preprocessing.py           # Normalization and interpolation
-│   ├── signal_processing.py       # FFT, band-pass filtering, NLLS fitting
-│   ├── parameter_analysis.py      # Linear estimations and final results
-│   ├── visualization.py           # Plotting utilities
-│   └── main.py                    # Main script
-│
-├── README.md
-└── requirements.txt
+laser-calculator/  
+│  
+├── data/  
+│   └── dataset_laser.csv          # Experimental data  
+│  
+├── src/  
+│   ├── data_loader.py             # Data loading and filtering  
+│   ├── preprocessing.py           # Normalization and interpolation  
+│   ├── signal_processing.py       # FFT, band-pass filtering, NLLS fitting  
+│   ├── parameter_analysis.py      # Linear estimations and final results  
+│   ├── visualization.py           # Plotting utilities  
+│   └── main.py                    # Main script  
+│  
+├── README.md  
+└── requirements.txt  
 
 ---
 
