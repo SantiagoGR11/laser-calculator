@@ -1,8 +1,14 @@
-<<<<<<< HEAD
 
 # LASER CALCULATOR: Manipulating Wavenumber in Linear Media
 
 This project implements the experimental and computational analysis of the **LASER CALCULATOR** experiment, developed as part of *Experimental Techniques III* (Physics Degree, University of Oviedo). The goal is to explore how algebraic operations between waves can be implemented using linear optics and signal processing in the Fourier plane.
+
+---
+
+
+[![Python](https://img.shields.io/badge/Python-3.10-blue)]()
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)]()
+[![Status](https://img.shields.io/badge/status-completed-success)]()
 
 ---
 
@@ -16,21 +22,21 @@ This work lays the foundation for future developments in **Fourier optics** and 
 ---
 
 ## 📂 **Project Structure**
-laser-calculator/
-│
-├── data/
-│   └── dataset_laser.csv          # Experimental data
-│
-├── src/
-│   ├── data_loader.py             # Data loading and filtering
-│   ├── preprocessing.py           # Normalization and interpolation
-│   ├── signal_processing.py       # FFT, band-pass filtering, NLLS fitting
-│   ├── parameter_analysis.py      # Linear estimations and final results
-│   ├── visualization.py           # Plotting utilities
-│   └── main.py                    # Main script
-│
-├── README.md
-└── requirements.txt
+laser-calculator/  
+│  
+├── data/  
+│   └── dataset_laser.csv          # Experimental data  
+│  
+├── src/  
+│   ├── data_loader.py             # Data loading and filtering  
+│   ├── preprocessing.py           # Normalization and interpolation  
+│   ├── signal_processing.py       # FFT, band-pass filtering, NLLS fitting  
+│   ├── parameter_analysis.py      # Linear estimations and final results  
+│   ├── visualization.py           # Plotting utilities  
+│   └── main.py                    # Main script  
+│  
+├── README.md  
+└── requirements.txt  
 
 ---
 
@@ -94,7 +100,7 @@ python src/main.py
 
 - https://www.linkedin.com/in/santiago-garc%C3%ADa-rodr%C3%ADguez-b8aa58240/
 - https://github.com/SantiagoGR11
-=======
+
 # laser-calculator
 Experimental study on implementing algebraic operations between waves using linear optics. By exploiting Fourier-plane manipulations, wave numbers are controlled via diffraction and spatial filtering, establishing a physical analogy between wave products and optical signal processing.
->>>>>>> bb5a4fc8278703cb8d9006e1e34bd0b5f27e4c85
+
