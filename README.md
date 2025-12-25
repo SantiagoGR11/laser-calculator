@@ -5,10 +5,21 @@ This project implements the experimental and computational analysis of the **LAS
 
 ---
 
-
 [![Python](https://img.shields.io/badge/Python-3.10-blue)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)]()
 [![Status](https://img.shields.io/badge/status-completed-success)]()
+
+---
+
+## 📄 **Proyect poster**
+
+The full scientific poster associated with this project is available here:
+
+👉 **[Download the poster (PDF)](docs/POSTER_Calculadora-Laser.pdf)**
+
+<p align="center">
+  <img src="docs/poster_preview.png" width="700">
+</p>
 
 ---
 
@@ -27,12 +38,6 @@ This work lays the foundation for future developments in **Fourier optics** and 
 
 ---
 
-## 📄 **Proyect presentation**
-
-[See complete poster](docs/POSTER_Laser-Calculator.pdf)
-
----
-
 ## 📂 **Project Structure**
 laser-calculator/  
 │  
@@ -41,6 +46,7 @@ laser-calculator/
 │  
 ├── docs/   
 │   └── POSTER_Laser-Calculator       # Proyect presentation  
+│   └── poster_preview                # Proyect prewiew  
 │   └── Graph2_MeasuredPatterns       # Graph 2 of the poster  
 │   └── Graph3_WavenumberSpectrum     # Graph 3 of the poster   
 │   └── Graph4_FittedFilteredSignals  # Graph 4 of the poster   
