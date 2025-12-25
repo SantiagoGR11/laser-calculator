@@ -1,4 +1,9 @@
 
+# LASER CALCULATOR: Manipulating Wavenumber in Linear Media
+
+This project implements the experimental and computational analysis of the **LASER CALCULATOR** experiment, developed as part of *Experimental Techniques III* (Physics Degree, University of Oviedo). The goal is to explore how algebraic operations between waves can be implemented using linear optics and signal processing in the Fourier plane.
+
+---
 
 ## 📄 **Proyect poster**
 
@@ -9,12 +14,6 @@ The full scientific poster associated with this project is available here:
 <p align="center">
   <img src="docs/poster_preview.png" width="700">
 </p>
-
----
-
-# LASER CALCULATOR: Manipulating Wavenumber in Linear Media
-
-This project implements the experimental and computational analysis of the **LASER CALCULATOR** experiment, developed as part of *Experimental Techniques III* (Physics Degree, University of Oviedo). The goal is to explore how algebraic operations between waves can be implemented using linear optics and signal processing in the Fourier plane.
 
 ---
 
