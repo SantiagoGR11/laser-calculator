@@ -1,8 +1,8 @@
 """
 main.py
-Script principal para el proyecto LASER CALCULATOR.
-Este archivo orquesta la carga de datos, preprocesamiento, análisis FFT,
-filtrado pasa-banda y ajuste NLLS para el experimento de manipulación del número de onda.
+Principal script of the LASER CALCULATOR proyect.
+This file manage the data load, preprocess, FFT analysis,
+pass-band filtering and NLLS fitting for the experiment of the wavenumber manipulation.
 """
 
 # Import own modules
