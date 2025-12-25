@@ -21,21 +21,36 @@ This work lays the foundation for future developments in **Fourier optics** and 
 
 ---
 
+## 📄 **Proyect presentation**
+
+[See complete poster](docs/POSTER_Laser-Calculator.pdf)
+
+---
+
 ## 📂 **Project Structure**
 laser-calculator/  
 │  
 ├── data/  
-│   └── dataset_laser.csv          # Experimental data  
+│   └── dataset_laser.csv             # Experimental data    
+│  
+├── docs/   
+│   └── POSTER_Laser-Calculator       # Proyect presentation  
+│   └── Graph2_MeasuredPatterns       # Graph 2 of the poster  
+│   └── Graph3_WavenumberSpectrum     # Graph 3 of the poster   
+│   └── Graph4_FittedFilteredSignals  # Graph 4 of the poster   
+│   └── Graph5_PatternTrends          # Graph 5 of the poster    
 │  
 ├── src/  
-│   ├── data_loader.py             # Data loading and filtering  
-│   ├── preprocessing.py           # Normalization and interpolation  
-│   ├── signal_processing.py       # FFT, band-pass filtering, NLLS fitting  
-│   ├── parameter_analysis.py      # Linear estimations and final results  
-│   ├── visualization.py           # Plotting utilities  
-│   └── main.py                    # Main script  
+│   ├── data_loader.py                # Data loading and filtering  
+│   ├── preprocessing.py              # Normalization and interpolation  
+│   ├── signal_processing.py          # FFT, band-pass filtering, NLLS fitting  
+│   ├── parameter_analysis.py         # Linear estimations and final results  
+│   ├── visualization.py              # Plotting utilities  
+│   └── main.py                       # Main script  
 │  
 ├── README.md  
+└── LICENSE  
+└── .gitignore  
 └── requirements.txt  
 
 ---
