@@ -52,8 +52,7 @@ laser-calculator/
 │   └── Graph4_FittedFilteredSignals  # Graph 4 of the poster   
 │   └── Graph5_PatternTrends          # Graph 5 of the poster    
 │  
-├── src/  
-│   ├── data_loader.py                # Data loading and filtering  
+├── src/   
 │   ├── preprocessing.py              # Normalization and interpolation  
 │   ├── signal_processing.py          # FFT, band-pass filtering, NLLS fitting  
 │   ├── parameter_analysis.py         # Linear estimations and final results  
